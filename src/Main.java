@@ -1,6 +1,7 @@
+//Library needed to store user input
+import java.util.Scanner;
+
 public class Main{
-
-
     static boolean checker(int num){
 
         if (num == 0){
